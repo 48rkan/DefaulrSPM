@@ -6,3 +6,10 @@ public final class TestClass {
         print("MESSAGE \(message)")
     }
 }
+
+
+public final class TestClass2 {
+    public func testMethod(message: String) {
+        print("MESSAGE  2 \(message)")
+    }
+}
