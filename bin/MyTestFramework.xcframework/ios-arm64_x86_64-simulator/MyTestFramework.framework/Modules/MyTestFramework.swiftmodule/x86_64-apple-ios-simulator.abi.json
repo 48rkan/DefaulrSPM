@@ -21,8 +21,8 @@
         "children": [
           {
             "kind": "Function",
-            "name": "testMethod",
-            "printedName": "testMethod(_:)",
+            "name": "testMethod1",
+            "printedName": "testMethod1(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -37,8 +37,64 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15MyTestFramework0aB5ClassC10testMethodyySSFZ",
-            "mangledName": "$s15MyTestFramework0aB5ClassC10testMethodyySSFZ",
+            "usr": "s:15MyTestFramework0aB5ClassC11testMethod1yySSFZ",
+            "mangledName": "$s15MyTestFramework0aB5ClassC11testMethod1yySSFZ",
+            "moduleName": "MyTestFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "testMethod2",
+            "printedName": "testMethod2(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MyTestFramework0aB5ClassC11testMethod2yySSFZ",
+            "mangledName": "$s15MyTestFramework0aB5ClassC11testMethod2yySSFZ",
+            "moduleName": "MyTestFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "testMethod3",
+            "printedName": "testMethod3(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MyTestFramework0aB5ClassC11testMethod3yySSFZ",
+            "mangledName": "$s15MyTestFramework0aB5ClassC11testMethod3yySSFZ",
             "moduleName": "MyTestFramework",
             "static": true,
             "declAttributes": [

@@ -4,21 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.gitattributes</key>
-		<data>
-		uj3+NFKAvcxegXuwLPSbi42OHEw=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		uFNlXzfKGd3IJsloWeaH4bFOifo=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Oc42e9jTcC09GXGYB2sIX83vDh8=
+		y7P4+JXLyUxwznD8erVoYIc4Dbk=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ESa66lWucttB9uM5pbAQEyxnb2k=
+		loLh28FCM8rgPDUIXQRbhOZApvw=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +22,19 @@
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ESa66lWucttB9uM5pbAQEyxnb2k=
+		loLh28FCM8rgPDUIXQRbhOZApvw=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KaTshoECVScgumGbBSrg9ql9Cb0=
+		spoz5fr3w3mfjNcDvAbIrPGCMzU=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Oc42e9jTcC09GXGYB2sIX83vDh8=
+		y7P4+JXLyUxwznD8erVoYIc4Dbk=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		x//2U6DFEvD0DGGzwPf1hSwOzqQ=
+		tXte3OqRI2xoiqNb4iqR+POur4o=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,38 +42,27 @@
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		x//2U6DFEvD0DGGzwPf1hSwOzqQ=
+		tXte3OqRI2xoiqNb4iqR+POur4o=
 		</data>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JnAfl1aTugRa7fFGsMLdgjFclVA=
-		</data>
-		<key>README.md</key>
-		<data>
-		Nl1+185nVEFQnUNtDsMguUY6uyY=
+		qt2C+SHksDSpstbYYUdXRphhyMY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>.gitattributes</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gh2+F2vCM7SZ01pX23UT8pQcmauXWfF3gwyRSb6ZAFs=
-			</data>
-		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			srZvSzs424krQdlkh29K2wQiBj2epzmegFHXKXGWw9Q=
+			4RdHcYcOdi0wemqU3q39B28k6TK0+cJVfnh88V9K/Z8=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yxPZ7xk22/IIvLUdKZEdHjusr2devnFdbPY4NO6uzA=
+			VkNIbg9u2dWMlxYUq4LApZJzOlJO3VKmQ+SIaAK95Ns=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,28 +76,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/yxPZ7xk22/IIvLUdKZEdHjusr2devnFdbPY4NO6uzA=
+			VkNIbg9u2dWMlxYUq4LApZJzOlJO3VKmQ+SIaAK95Ns=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wVir5HXB1OeOx3ctUF28wZYFrON6JZphf5UqFeWeG3U=
+			fGjA2AmK66xzVOdun/wO2LcCCpUBYkDm35gsfsBEvxA=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			srZvSzs424krQdlkh29K2wQiBj2epzmegFHXKXGWw9Q=
+			4RdHcYcOdi0wemqU3q39B28k6TK0+cJVfnh88V9K/Z8=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUMOJFTHrjRDCJmxt8AO38+/6bVOUDMGV+J4OPP/Lm0=
+			Sui1MdKkYmAIGDBhPBtWyyZvXPMA6IpS1gXQ0nDs0N0=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,21 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUMOJFTHrjRDCJmxt8AO38+/6bVOUDMGV+J4OPP/Lm0=
+			Sui1MdKkYmAIGDBhPBtWyyZvXPMA6IpS1gXQ0nDs0N0=
 			</data>
 		</dict>
 		<key>Modules/MyTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i/4cSWtsSf1N2koKAmkM5s0QwWdNlZh721cnVKIruNA=
-			</data>
-		</dict>
-		<key>README.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v7/i+x59rEE92zSCkhJGIyp53/JnG6YiPx2g0OIT9oE=
+			hxPKej9GFZ+v5Ekzt09ghaPu/x6WJKk6cM3hBCk2vJc=
 			</data>
 		</dict>
 	</dict>
